@@ -27,8 +27,8 @@ const Dogs = () => {
                     <img src={animal3} className="w-44 border-4 rounded-full border-white max-w-none" alt="" />
                 </div>
 
-                {Array(5).fill(1).map(item =>
-                    <DogItem />
+                {Array(5).fill(1).map((item, i) =>
+                    <DogItem key={i} />
                 )}
 
             </div>
