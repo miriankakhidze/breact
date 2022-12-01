@@ -14,7 +14,7 @@ const Reviews = () => {
 
                     <img src={starq} className="absolute -top-14 -right-12" />
 
-                    <div className="absolute -bottom-8 py-6 px-5 w-1/2 bg-no-repeat " style={{ backgroundImage: `url(${wvet})` }}>
+                    <div className="absolute -bottom-6 py-6 px-5 w-1/2 bg-no-repeat bg-cover" style={{ backgroundImage: `url(${wvet})` }}>
                         <div className="flex flex-row justify-center gap-5">
                             {Array(5).fill(1).map((item, i) => {
                                 return <div key={i} className={`${i == 0 ? 'bg-white' : ''} w-3 h-3 border-2 rounded-full`}></div>
@@ -26,7 +26,7 @@ const Reviews = () => {
 
             </div>
             <div className="w-full flex flex-col items-start justify-center relative">
-                <h2 className="text-dark-blue text-5xl mb-4">Customer Reviews</h2>
+                <h2 className="text-dark-blue text-5xl mb-4 font-bold">Customer Reviews</h2>
 
                 <div className="bg-[#FBF2DA] rounded-3xl my-7 px-9 py-7 w-2/3">
                     <p className="text-dark-blue text-2xl">

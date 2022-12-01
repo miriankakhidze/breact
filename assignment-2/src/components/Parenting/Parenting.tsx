@@ -18,18 +18,18 @@ const Parenting = () => {
             </div>
 
             <div className="w-full flex flex-col items-start justify-center relative">
-                <h2 className="text-light-yellow text-5xl mb-4">Making pet parenting easy for everyone</h2>
+                <h2 className="text-light-yellow text-5xl mb-4 font-bold">Making pet parenting easy for everyone</h2>
 
-                <p className="text-light-yellow text-2xl my-6">
+                <p className="text-light-yellow text-2xl my-6 font-semibold">
                     Could this be the dog with the longest tail? The Rampur Greyhound - shy, sensitive, alert, and faithful. This is a breed that has climbed its way to being top dog because of its intelligence
                 </p>
 
-                <ul className="mt-8 space-y-3">
+                <ul className="mt-8 space-y-3 font-bold">
                     <li className="flex items-center text-light-yellow text-base gap-3"> <div className="w-4 h-4 border-2 border-dark-blue rounded-full"></div> Adoption</li>
                     <li className="flex items-center text-light-yellow text-base gap-3"> <div className="w-4 h-4 border-2 border-dark-blue rounded-full"></div> Frozen Raw</li>
                     <li className="flex items-center text-light-yellow text-base gap-3"> <div className="w-4 h-4 border-2 border-dark-blue rounded-full"></div> Next Day Delivery</li>
                 </ul >
-                <a href="#" className="bg-dark-blue mt-8 inline-flex items-center justify-center whitespace-nowrap rounded-full bg-orange-400  px-8 py-4 text-base font-medium text-light-yellow">Explore</a>
+                <a href="#" className="bg-dark-blue mt-8 inline-flex items-center justify-center whitespace-nowrap rounded-full bg-orange-400  px-10 py-4 text-xl font-medium text-light-yellow">Explore</a>
 
 
             </div>

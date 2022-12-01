@@ -13,7 +13,7 @@ const Subscribe = () => {
                 </div>
             </div>
             <div className="bg-orange w-full px-14 py-20 ">
-                <h1 className="text-dark-blue text-5xl max-w-md">Subscribe & Get Pet Updatenews</h1>
+                <h1 className="text-dark-blue text-5xl max-w-lg font-bold">Subscribe & Get Pet Updatenews</h1>
                 <img src={ota} className="absolute right-0 top-10 " />
             </div>
         </div>

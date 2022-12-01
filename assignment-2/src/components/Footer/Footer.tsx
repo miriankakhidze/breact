@@ -1,5 +1,7 @@
-import React from "react"
 import sparkYellow from '../../assets/spark-yellow.png'
+import fb from '../../assets/footer/fb.png'
+import ig from '../../assets/footer/ig.png'
+import tw from '../../assets/footer/tw.png'
 
 const Footer = () => {
     return (
@@ -22,10 +24,10 @@ const Footer = () => {
                 </nav>
                 <div className="flex items-center justify-start gap-11 mt-10">
                     <a href="#!" className="text-xl text-white">Flow</a>
-                    <div className="flex justify-between gap-20">
-                        <a href="#!">F</a>
-                        <a href="#!">I</a>
-                        <a href="#!">T</a>
+                    <div className="flex justify-between gap-8">
+                        <a href="#!"><img src={fb} alt="" /></a>
+                        <a href="#!"><img src={ig} alt="" /></a>
+                        <a href="#!"><img src={tw} alt="" /></a>
                     </div>
                 </div>
             </div>
