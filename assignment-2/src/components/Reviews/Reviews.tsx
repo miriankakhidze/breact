@@ -1,7 +1,6 @@
-import React from "react"
 import man from '../../assets/rev/man.png'
-import starq from '../../assets/rev/starq.png'
 import star from '../../assets/rev/star.png'
+import starq from '../../assets/rev/starq.png'
 import wvet from '../../assets/rev/wvet.png'
 
 const Reviews = () => {

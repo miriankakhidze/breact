@@ -1,12 +1,11 @@
-import React from "react"
-import spring from '../../assets/serv/spring.png'
+import bgL from '../../assets/serv/bg-l.svg'
+import bgR from '../../assets/serv/bg-r.svg'
+import bgYell from '../../assets/serv/bg-yell.svg'
+import clo from '../../assets/serv/clo.png'
 import klan from '../../assets/serv/klan.png'
 import kole from '../../assets/serv/kole.png'
 import sci from '../../assets/serv/sci.png'
-import clo from '../../assets/serv/clo.png'
-import bgYell from '../../assets/serv/bg-yell.svg'
-import bgL from '../../assets/serv/bg-l.svg'
-import bgR from '../../assets/serv/bg-r.svg'
+import spring from '../../assets/serv/spring.png'
 
 const Service = () => {
     return (

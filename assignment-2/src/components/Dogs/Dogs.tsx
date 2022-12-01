@@ -1,9 +1,6 @@
-import React from "react"
-import neckless from '../../assets/dogs/neckless.png'
-import diffrentCategory from '../../assets/dogs/diffrent-category.png'
-import animal1 from '../../assets/dogs/animal-1.png'
-import animal2 from '../../assets/dogs/animal-2.png'
 import animal3 from '../../assets/dogs/animal-3.png'
+import diffrentCategory from '../../assets/dogs/diffrent-category.png'
+import neckless from '../../assets/dogs/neckless.png'
 import DogItem from "./DogItem"
 
 

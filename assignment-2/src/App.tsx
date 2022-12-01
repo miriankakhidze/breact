@@ -1,6 +1,4 @@
 
-import React from 'react'
-import './App.css'
 import Dogs from './components/Dogs/Dogs'
 import Footer from './components/Footer/Footer'
 import Hero from './components/Hero/Hero'

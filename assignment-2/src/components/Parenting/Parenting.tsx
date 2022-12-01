@@ -1,7 +1,6 @@
-import React from "react"
-import wom from '../../assets/par/wom.png'
-import spring from '../../assets/par/spring.png'
 import klan from '../../assets/par/klan.png'
+import spring from '../../assets/par/spring.png'
+import wom from '../../assets/par/wom.png'
 
 const Parenting = () => {
     return (

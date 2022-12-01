@@ -1,4 +1,3 @@
-import React from "react"
 import koke from '../../assets/sub/koke.png'
 import must from '../../assets/sub/must.png'
 import ota from '../../assets/sub/ota.png'
