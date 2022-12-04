@@ -50,6 +50,7 @@ const Service = () => {
                 </div>
             </div>
 
+
             <img src={spring} className="absolute top-20 left-0" />
             <img src={klan} className="absolute right-0 top-0" />
         </div>
